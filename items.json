@@ -1,0 +1,477 @@
+[
+  {
+    "name": "ASUS DUAL NVIDIA GeForce RTX 3070 OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08L8LG4M3",
+    "instock": false
+  },
+  {
+    "name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08LF1CWT2",
+    "instock": false
+  },
+  {
+    "name": "EVGA 10G-P5-3897-KR GeForce RTX 3080 FTW3 ULTRA GAMING",
+    "url": "https://www.amazon.co.uk/gp/product/B08HR3Y5GQ",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GameRock OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08QZR8S24",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GamingPro OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08JCKYYL8",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3070 GamingPro OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08LDT6HQ5",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3767-KR GeForce RTX 3070 FTW3 Ultra Gaming",
+    "url": "https://www.amazon.co.uk/gp/product/B08L8L9TCZ",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3060 Ti FTW ULTRA GAMING",
+    "url": "https://www.amazon.co.uk/gp/product/B08P2H5LW2",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3080 XC3 ULTRA GAMING",
+    "url": "https://www.amazon.co.uk/gp/product/B08HJ9XFNM",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3755-KR GeForce RTX 3070 XC3 Ultra Gaming",
+    "url": "https://www.amazon.co.uk/gp/product/B08L8L71SM",
+    "instock": false
+  },
+  {
+    "name": "MSI RTX 3080 SUPRIM X 10G",
+    "url": "https://www.amazon.co.uk/gp/product/B08LTKLG5K",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3080 Gaming X Trio",
+    "url": "https://www.amazon.co.uk/gp/product/B08HM4V2DH",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3070 Gaming X Trio",
+    "url": "https://www.amazon.co.uk/gp/product/B08LNPPCWJ",
+    "instock": false
+  },
+  {
+    "name": "MSI Gaming GeForce RTX 3070",
+    "url": "https://www.amazon.co.uk/gp/product/B08KWLMZV4",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3080 Master",
+    "url": "https://www.amazon.co.uk/gp/product/B08KJ3VKLQ",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.co.uk/gp/product/B08M14Y3C7",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.co.uk/gp/product/B08LNY8P5L",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER",
+    "url": "https://www.amazon.co.uk/gp/product/B08NW5CGXT",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 EAGLE OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08HHZVZ3N",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 GAMING OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08HLZXHZY",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE GeForce RTX 3060 Ti GAMING OC PRO",
+    "url": "https://www.amazon.co.uk/gp/product/B08NYPLXPJ",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ti GAMING OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08NW2X37Z",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 VISION OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08KH7RL89",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3070 VISION OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08LNWPYRS",
+    "instock": false
+  },
+  {
+    "name": "ASUS TUF Gaming NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.co.uk/gp/product/B08LLG9KQT",
+    "instock": false
+  },
+  {
+    "name": "ASUS TUF Gaming GeForce RTX 3080 OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08HN4DSTC",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG Strix GeForce RTX 3080 OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08HN6KYS3",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.co.uk/gp/product/B08L8JNTXQ",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3060 Ti OC",
+    "url": "https://www.amazon.co.uk/gp/product/B083Z7TR8Z",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX™ 3070 White OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08R15HVJ3",
+    "instock": true
+  },
+  {
+    "name": "PNY GeForce RTX™ 3080",
+    "url": "https://www.amazon.co.uk/gp/product/B08HBR7QBM",
+    "instock": false
+  },
+  {
+    "name": "PNY GeForce RTX™ 3070",
+    "url": "https://www.amazon.co.uk/gp/product/B08HBJB7YD",
+    "instock": false
+  },
+  {
+    "name": "ZOTAC GAMING GeForce RTX 3080 Trinity OC",
+    "url": "https://www.amazon.co.uk/gp/product/B08HVV2P4Z",
+    "instock": false
+  },
+  {
+    "name": "EVGA 10G-P5-3897-KR GeForce RTX 3080 FTW3 ULTRA GAMING",
+    "url": "https://www.amazon.de/gp/product/B08HR3Y5GQ",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GameRock OC",
+    "url": "https://www.amazon.de/gp/product/B08QZR8S24",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GamingPro OC",
+    "url": "https://www.amazon.de/gp/product/B08JCKYYL8",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3070 GamingPro OC",
+    "url": "https://www.amazon.de/gp/product/B08LDT6HQ5",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3767-KR GeForce RTX 3070 FTW3 Ultra Gaming",
+    "url": "https://www.amazon.de/gp/product/B08L8L9TCZ",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3060 Ti FTW ULTRA GAMING",
+    "url": "https://www.amazon.de/gp/product/B08P2H5LW2",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3080 XC3 ULTRA GAMING",
+    "url": "https://www.amazon.de/gp/product/B08HJ9XFNM",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3755-KR GeForce RTX 3070 XC3 Ultra Gaming",
+    "url": "https://www.amazon.de/gp/product/B08L8L71SM",
+    "instock": false
+  },
+  {
+    "name": "MSI RTX 3080 SUPRIM X 10G",
+    "url": "https://www.amazon.de/gp/product/B08LTKLG5K",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3080 Gaming X Trio",
+    "url": "https://www.amazon.de/gp/product/B08HM4V2DH",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3070 Gaming X Trio",
+    "url": "https://www.amazon.de/gp/product/B08LNPPCWJ",
+    "instock": false
+  },
+  {
+    "name": "MSI Gaming GeForce RTX 3070",
+    "url": "https://www.amazon.de/gp/product/B08KWLMZV4",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3080 Master",
+    "url": "https://www.amazon.de/gp/product/B08KJ3VKLQ",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.de/gp/product/B08M14Y3C7",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.de/gp/product/B08LNY8P5L",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER",
+    "url": "https://www.amazon.de/gp/product/B08NW5CGXT",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 EAGLE OC",
+    "url": "https://www.amazon.de/gp/product/B08HHZVZ3N",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 GAMING OC",
+    "url": "https://www.amazon.de/gp/product/B08HLZXHZY",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE GeForce RTX 3060 Ti GAMING OC PRO",
+    "url": "https://www.amazon.de/gp/product/B08NYPLXPJ",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ti GAMING OC",
+    "url": "https://www.amazon.de/gp/product/B08NW2X37Z",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 VISION OC",
+    "url": "https://www.amazon.de/gp/product/B08KH7RL89",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3070 VISION OC",
+    "url": "https://www.amazon.de/gp/product/B08LNWPYRS",
+    "instock": false
+  },
+  {
+    "name": "ASUS TUF Gaming NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.de/gp/product/B08LLG9KQT",
+    "instock": false
+  },
+  {
+    "name": "ASUS TUF Gaming GeForce RTX 3080 OC",
+    "url": "https://www.amazon.de/gp/product/B08HN4DSTC",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG Strix GeForce RTX 3080 OC",
+    "url": "https://www.amazon.de/gp/product/B08HN6KYS3",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.de/gp/product/B08L8JNTXQ",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3060 Ti OC",
+    "url": "https://www.amazon.de/gp/product/B083Z7TR8Z",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX™ 3070 White OC",
+    "url": "https://www.amazon.de/gp/product/B08R15HVJ3",
+    "instock": false
+  },
+  {
+    "name": "PNY GeForce RTX™ 3080",
+    "url": "https://www.amazon.de/gp/product/B08HBR7QBM",
+    "instock": false
+  },
+  {
+    "name": "PNY GeForce RTX™ 3070",
+    "url": "https://www.amazon.de/gp/product/B08HBJB7YD",
+    "instock": false
+  },
+  {
+    "name": "ZOTAC GAMING GeForce RTX 3080 Trinity OC",
+    "url": "https://www.amazon.de/gp/product/B08HVV2P4Z",
+    "instock": false
+  },
+  {
+    "name": "EVGA 10G-P5-3897-KR GeForce RTX 3080 FTW3 ULTRA GAMING",
+    "url": "https://www.amazon.fr/gp/product/B08HR3Y5GQ",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GameRock OC",
+    "url": "https://www.amazon.fr/gp/product/B08QZR8S24",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3080 GamingPro OC",
+    "url": "https://www.amazon.fr/gp/product/B08JCKYYL8",
+    "instock": false
+  },
+  {
+    "name": "Palit GeForce RTX 3070 GamingPro OC",
+    "url": "https://www.amazon.fr/gp/product/B08LDT6HQ5",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3767-KR GeForce RTX 3070 FTW3 Ultra Gaming",
+    "url": "https://www.amazon.fr/gp/product/B08L8L9TCZ",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3060 Ti FTW ULTRA GAMING",
+    "url": "https://www.amazon.fr/gp/product/B08P2H5LW2",
+    "instock": false
+  },
+  {
+    "name": "EVGA GeForce RTX 3080 XC3 ULTRA GAMING",
+    "url": "https://www.amazon.fr/gp/product/B08HJ9XFNM",
+    "instock": false
+  },
+  {
+    "name": "EVGA 08G-P5-3755-KR GeForce RTX 3070 XC3 Ultra Gaming",
+    "url": "https://www.amazon.fr/gp/product/B08L8L71SM",
+    "instock": false
+  },
+  {
+    "name": "MSI RTX 3080 SUPRIM X 10G",
+    "url": "https://www.amazon.fr/gp/product/B08LTKLG5K",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3080 Gaming X Trio",
+    "url": "https://www.amazon.fr/gp/product/B08HM4V2DH",
+    "instock": false
+  },
+  {
+    "name": "MSI GeForce RTX 3070 Gaming X Trio",
+    "url": "https://www.amazon.fr/gp/product/B08LNPPCWJ",
+    "instock": false
+  },
+  {
+    "name": "MSI Gaming GeForce RTX 3070",
+    "url": "https://www.amazon.fr/gp/product/B08KWLMZV4",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3080 Master",
+    "url": "https://www.amazon.fr/gp/product/B08KJ3VKLQ",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.fr/gp/product/B08M14Y3C7",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3070 MASTER",
+    "url": "https://www.amazon.fr/gp/product/B08LNY8P5L",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER",
+    "url": "https://www.amazon.fr/gp/product/B08NW5CGXT",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 EAGLE OC",
+    "url": "https://www.amazon.fr/gp/product/B08HHZVZ3N",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 GAMING OC",
+    "url": "https://www.amazon.fr/gp/product/B08HLZXHZY",
+    "instock": false
+  },
+  {
+    "name": "GIGABYTE GeForce RTX 3060 Ti GAMING OC PRO",
+    "url": "https://www.amazon.fr/gp/product/B08NYPLXPJ",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3060 Ti GAMING OC",
+    "url": "https://www.amazon.fr/gp/product/B08NW2X37Z",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3080 VISION OC",
+    "url": "https://www.amazon.fr/gp/product/B08KH7RL89",
+    "instock": false
+  },
+  {
+    "name": "Gigabyte GeForce RTX 3070 VISION OC",
+    "url": "https://www.amazon.fr/gp/product/B08LNWPYRS",
+    "instock": true
+  },
+  {
+    "name": "ASUS TUF Gaming NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.fr/gp/product/B08LLG9KQT",
+    "instock": false
+  },
+  {
+    "name": "ASUS TUF Gaming GeForce RTX 3080 OC",
+    "url": "https://www.amazon.fr/gp/product/B08HN4DSTC",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG Strix GeForce RTX 3080 OC",
+    "url": "https://www.amazon.fr/gp/product/B08HN6KYS3",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3070",
+    "url": "https://www.amazon.fr/gp/product/B08L8JNTXQ",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX 3060 Ti OC",
+    "url": "https://www.amazon.fr/gp/product/B083Z7TR8Z",
+    "instock": false
+  },
+  {
+    "name": "ASUS ROG STRIX NVIDIA GeForce RTX™ 3070 White OC",
+    "url": "https://www.amazon.fr/gp/product/B08R15HVJ3",
+    "instock": false
+  },
+  {
+    "name": "PNY GeForce RTX™ 3080",
+    "url": "https://www.amazon.fr/gp/product/B08HBR7QBM",
+    "instock": false
+  },
+  {
+    "name": "PNY GeForce RTX™ 3070",
+    "url": "https://www.amazon.fr/gp/product/B08HBJB7YD",
+    "instock": false
+  },
+  {
+    "name": "ZOTAC GAMING GeForce RTX 3080 Trinity OC",
+    "url": "https://www.amazon.fr/gp/product/B08HVV2P4Z",
+    "instock": false
+  }
+]
