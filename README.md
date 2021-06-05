@@ -82,7 +82,7 @@ Systems run from independant Node process.
 * Structure
   * npm
     ```sh
-    npm install dep
+    npm install {dependancy}
     ```
     Run the above command for each of these libraries.
     * `discord.js`
